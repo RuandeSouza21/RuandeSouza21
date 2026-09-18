@@ -1,16 +1,16 @@
-## Hi there 👋
+# Oi, meu nome é Ruan!
 
-<!--
-**RuandeSouza21/RuandeSouza21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Densevolvedor Back-End
 
-Here are some ideas to get you started:
+## Sobre mim
+Atualmente trabalho com foco no desenvolvimento Back-End mas também atuando um pouco com Front-End e até mesmo como Fullstack em alguns projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+| Back-End | Front-End | Outras Ferramentas
+| --- | --- | --- | 
+| Java | Html | IntelliJ Idea
+| Spring Boot | CSS | VS Code
+| Spring Data JPA | JavaScript | Postman
+| Hibernate | Angular | Git
+| | | Github
+
