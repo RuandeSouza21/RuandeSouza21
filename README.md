@@ -20,7 +20,7 @@ Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com F
 
 ## ⚔️ SKILL TREE
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%" valign="top">
