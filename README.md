@@ -68,6 +68,4 @@ GitHub
 
 ## 📊 GITHUB STATS
 
-<a href="https://github.com/RuandeSouza21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuandeSouza21&show_icons=true&theme=default" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuandeSouza21&show_icons=true)
