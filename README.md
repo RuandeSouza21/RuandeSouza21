@@ -5,3 +5,10 @@
 <img src="./assets/profile-8bit.png" width="280px" alt="Ruan em pixel art">
 
 </div>
+## 👤 PLAYER PROFILE
+
+### RUAN DE SOUZA
+
+**BACK-END DEVELOPER**
+
+Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com Front-End e Fullstack em alguns projetos.
