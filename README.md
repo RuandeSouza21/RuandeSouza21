@@ -1,16 +1,34 @@
-# Oi, meu nome é Ruan!
+<div align="center">
 
-## Densevolvedor Back-End
+# ▶ PLAYER 01
 
-## Sobre mim
-Atualmente trabalho com foco no desenvolvimento Back-End mas também atuando um pouco com Front-End e até mesmo como Fullstack em alguns projetos.
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <img src="./assets/profile-8bit.png" width="280px" alt="Ruan em pixel art">
+    </td>
 
-## Tecnologias
-| Back-End | Front-End | Outras Ferramentas
-| --- | --- | --- | 
-| Java | Html | IntelliJ Idea
-| Spring Boot | CSS | VS Code
-| Spring Data JPA | JavaScript | Postman
-| Hibernate | Angular | Git
-| | | Github
+    <td align="left" width="60%">
 
+### RUAN DE SOUZA
+
+**BACK-END DEVELOPER**
+
+<br>
+
+🟢 **STATUS:** ONLINE
+
+<br>
+
+> Construindo soluções através de código,
+> tecnologia e aprendizado contínuo.
+
+<br>
+
+**▶ SELECT**
+
+    </td>
+  </tr>
+</table>
+
+</div>
