@@ -14,6 +14,6 @@
 
 **CLASS:** Back-End Developer
 
-**STATUS:** 🟢 Online
+**STATUS:** [ Online ]
 
 Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com Front-End e Fullstack em alguns projetos.
