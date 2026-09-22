@@ -17,3 +17,33 @@
 **STATUS:** [ Online ]
 
 Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com Front-End e Fullstack em alguns projetos.
+
+## ⚔️ SKILL TREE
+
+### 💻 BACK-END
+
+| Technology |
+| --- |
+| Java |
+| Spring Boot |
+| Spring Data JPA |
+| Hibernate |
+
+### 🎨 FRONT-END
+
+| Technology |
+| --- |
+| HTML |
+| CSS |
+| JavaScript |
+| Angular |
+
+### 🎒 INVENTORY
+
+| Tool |
+| --- |
+| IntelliJ IDEA |
+| VS Code |
+| Postman |
+| Git |
+| GitHub |
