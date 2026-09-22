@@ -22,28 +22,22 @@ Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com F
 
 ### 💻 BACK-END
 
-| Technology |
-| --- |
-| Java |
-| Spring Boot |
-| Spring Data JPA |
-| Hibernate |
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
 
 ### 🎨 FRONT-END
 
-| Technology |
-| --- |
-| HTML |
-| CSS |
-| JavaScript |
-| Angular |
+- HTML
+- CSS
+- JavaScript
+- Angular
 
 ### 🎒 INVENTORY
 
-| Tool |
-| --- |
-| IntelliJ IDEA |
-| VS Code |
-| Postman |
-| Git |
-| GitHub |
+- IntelliJ IDEA
+- VS Code
+- Postman
+- Git
+- GitHub
