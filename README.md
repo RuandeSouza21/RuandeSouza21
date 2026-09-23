@@ -69,3 +69,27 @@ GitHub
 ## 📊 GITHUB STATS
 
 ![GitHub Stats](./assets/github-stats.svg)
+
+## 📡 CONNECT
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/RuandeSouza21">
+<b>🐙 GITHUB</b>
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://br.linkedin.com/in/ruan-de-souza-cardoso-brito-0b7823270">
+<b>💼 LINKEDIN</b>
+</a>
+
+</td>
+
+</tr>
+</table>
