@@ -68,4 +68,4 @@ GitHub
 
 ## 📊 GITHUB STATS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuandeSouza21&show_icons=true)
+![GitHub Stats](./assets/github-stats.svg)
