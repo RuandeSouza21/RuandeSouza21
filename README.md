@@ -26,7 +26,11 @@ Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com F
 
 ## 📊 GITHUB STATS
 
-![GitHub Stats](./assets/github-stats.svg)
+<div align="center">
+
+<img src="./assets/github-stats.svg" width="700px" alt="GitHub Stats">
+
+</div>
 
 ## 📡 CONNECT
 
