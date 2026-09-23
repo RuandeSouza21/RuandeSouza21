@@ -16,7 +16,7 @@
 
 **STATUS:** [ Online ]
 
-Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com Front-End e Fullstack em alguns projetos.
+Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com Front-End e Full Stack em alguns projetos.
 
 ## ⚔️ SKILL TREE
 
