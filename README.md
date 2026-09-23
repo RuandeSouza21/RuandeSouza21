@@ -42,8 +42,6 @@ Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com F
 
 </div>
 
-<br>
-
 <div align="center">
 
 ---
