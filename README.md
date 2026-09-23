@@ -20,51 +20,9 @@ Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com F
 
 ## ⚔️ SKILL TREE
 
-<table width="100%">
-<tr>
-
-<td align="center" width="33%">
-
-<b>💻 BACK-END</b>
-
-<br><br>
-
-Java<br>
-Spring Boot<br>
-Spring Data JPA<br>
-Hibernate
-
-</td>
-
-<td align="center" width="33%">
-
-<b>🎨 FRONT-END</b>
-
-<br><br>
-
-HTML<br>
-CSS<br>
-JavaScript<br>
-Angular
-
-</td>
-
-<td align="center" width="33%">
-
-<b>🎒 INVENTORY</b>
-
-<br><br>
-
-IntelliJ IDEA<br>
-VS Code<br>
-Postman<br>
-Git<br>
-GitHub
-
-</td>
-
-</tr>
-</table>
+| 💻 **BACK-END** | 🎨 **FRONT-END** | 🎒 **INVENTORY** |
+|:---:|:---:|:---:|
+| Java<br>Spring Boot<br>Spring Data JPA<br>Hibernate | HTML<br>CSS<br>JavaScript<br>Angular | IntelliJ IDEA<br>VS Code<br>Postman<br>Git<br>GitHub |
 
 ## 📊 GITHUB STATS
 
