@@ -39,6 +39,7 @@ Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com F
 | [RuandeSouza21](https://github.com/RuandeSouza21) | [LinkedIn](https://br.linkedin.com/in/ruan-de-souza-cardoso-brito-0b7823270) |
 
 <br>
+<br>
 
 <div align="center">
 
