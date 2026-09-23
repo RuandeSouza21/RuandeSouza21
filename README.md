@@ -44,8 +44,6 @@ Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com F
 
 <br>
 
-https://br.linkedin.com/in/ruan-de-souza-cardoso-brito-0b7823270
-
 <div align="center">
 
 ---
