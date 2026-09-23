@@ -72,24 +72,6 @@ GitHub
 
 ## 📡 CONNECT
 
-<table width="100%">
-<tr>
-
-<td align="center" width="50%">
-
-<a href="https://github.com/RuandeSouza21">
-<b>🐙 GITHUB</b>
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-<a href="SEU_LINKEDIN_AQUI">
-<b>💼 LINKEDIN</b>
-</a>
-
-</td>
-
-</tr>
-</table>
+| 🐙 **GITHUB** | 💼 **LINKEDIN** |
+|:---:|:---:|
+| [RuandeSouza21](https://github.com/RuandeSouza21) | [LinkedIn](https://br.linkedin.com/in/ruan-de-souza-cardoso-brito-0b7823270) |
