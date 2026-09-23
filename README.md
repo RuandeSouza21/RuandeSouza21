@@ -78,7 +78,7 @@ GitHub
 <td align="center" width="50%">
 
 <a href="https://github.com/RuandeSouza21">
-<b>🐙 GITHUB</b>
+<b>🐙  GITHUB</b>
 </a>
 
 </td>
