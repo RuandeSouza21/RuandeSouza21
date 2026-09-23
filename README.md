@@ -28,7 +28,7 @@ Atualmente trabalho com foco no desenvolvimento Back-End, mas também atuo com F
 
 <div align="center">
 
-<img src="./assets/github-stats.svg" width="700px" alt="GitHub Stats">
+<img src="./assets/github-stats.svg" width="600px" alt="GitHub Stats">
 
 </div>
 
