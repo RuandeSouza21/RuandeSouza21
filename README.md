@@ -75,3 +75,15 @@ GitHub
 | 🐙 **GITHUB** | 💼 **LINKEDIN** |
 |:---:|:---:|
 | [RuandeSouza21](https://github.com/RuandeSouza21) | [LinkedIn](https://br.linkedin.com/in/ruan-de-souza-cardoso-brito-0b7823270) |
+
+<br>
+
+<div align="center">
+
+---
+
+**CONTINUE?**
+
+▶ **YES**
+
+</div>
